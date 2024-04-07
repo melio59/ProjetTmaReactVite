@@ -1,0 +1,7 @@
+private-space {
+  color: yellow;
+  text-decoration: none;
+  justify-content: space-between;
+  display: flex;
+  font-weight: bold;
+}

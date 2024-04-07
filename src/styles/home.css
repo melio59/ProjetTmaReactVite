@@ -1,0 +1,21 @@
+.home-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; 
+    
+  }
+  
+  .home-content {
+    text-align: center;
+    text-decoration: none;
+    color: whitesmoke;
+    font-size: large;
+    font-weight: bold;
+  }
+  
+
+  .home-content :hover {
+    color: #646cff;
+  }
